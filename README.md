@@ -1,4 +1,6 @@
 ## Welcome to Sameet's Portfolio
+![image](https://user-images.githubusercontent.com/56538766/83209969-799a7080-a10e-11ea-8f08-7a43fef5bc64.png)
+
 
 You can use the [editor on GitHub](https://github.com/sameet96/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
